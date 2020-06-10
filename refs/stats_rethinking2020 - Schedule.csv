@@ -1,0 +1,21 @@
+Date,Chapter,Pages,Subject,Lectures
+2020-06-12,Chapter 1,1-17,Introduction,https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=2&t=0s
+2020-06-19,Chapter 2,19-46,forking paths,https://www.youtube.com/watch?v=XoVtOAN0htU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=3&t=0s
+2020-06-26,Chapter 3,49-68,grid sampling,
+2020-07-03,Chapter 4,71-120,gaussian model,https://www.youtube.com/watch?v=h5aPo5wXN8E&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=3  https://www.youtube.com/watch?v=ENxTrFf9a7c&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=4
+2020-07-10,Chapter 5.1-5.2,123-152,Spurious relations,https://www.youtube.com/watch?v=e0tO64mtYMU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=5
+2020-07-17,Chapter 5.3,153-159,Spurious relations,https://www.youtube.com/watch?v=e0tO64mtYMU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=5
+2020-07-24,Chapter 6.1-6.2,161-175,DAG,https://www.youtube.com/watch?v=l_7yIUqWBmE&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=6
+2020-07-31,Chapter 6.3-6.5,176-189,DAG,https://www.youtube.com/watch?v=l_7yIUqWBmE&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=6
+2020-08-07,Chapter 7,191-235,Regularization,https://www.youtube.com/watch?v=0Jc6Kgw5qc0&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=7  https://www.youtube.com/watch?v=gjrsYDJbRh0&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=8
+2020-08-14,Chapter 8,237-260,Interactions,
+2020-08-21,Chapter 9,263-296,MCMC,https://www.youtube.com/watch?v=v-j0UmWf3Us&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=10
+2020-08-28,Chapter 10,299-321,Entropy and GLM,https://www.youtube.com/watch?v=-4y4X8ELcEM&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=11 . https://www.youtube.com/watch?v=-4y4X8ELcEM&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=11
+2020-09-04,Chapter 11,323-366,Counts,https://www.youtube.com/watch?v=hRJtKCIDTwc&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=12  https://www.youtube.com/watch?v=p7g-CgGCS34&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=13
+2020-09-11,Chapter 12,369-397,mixture models,https://www.youtube.com/watch?v=zA3Jxv8LOrA&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=14
+2020-09-18,Chapter 13.1-13.3,399-419,multilevel,https://www.youtube.com/watch?v=AALYPv5xSos&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=15
+2020-09-25,Chapter 13.4-13.7,420-431,multilevel,https://www.youtube.com/watch?v=ZG3Oe35R5sY&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=16
+2020-10-02,Chapter 14.1-14.3,435-461,covariance ,https://www.youtube.com/watch?v=yfXpjmWgyXU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=17
+2020-10-09,Chapter 14.4-14.7,462-485,covariance ,https://www.youtube.com/watch?v=yfXpjmWgyXU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=17 . https://www.youtube.com/watch?v=pwMRbt2CbSU&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=19
+2020-10-16,Chapter 15,489-521,interpolation,https://www.youtube.com/watch?v=UgLF0aLk85s&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI&index=20
+2020-10-23,Chapter 16,525-550,scientific context,
